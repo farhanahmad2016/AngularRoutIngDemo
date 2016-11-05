@@ -83,6 +83,7 @@
     <Content Include="scripts\Scr.js" />
     <Content Include="StudentService.asmx" />
     <Content Include="Template\Courses.html" />
+    <Content Include="Template\demo.html" />
     <Content Include="Template\Home.html" />
     <Content Include="Index.html" />
     <Content Include="scripts\Ang.js" />
